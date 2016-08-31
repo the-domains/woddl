@@ -1,0 +1,14 @@
+layout_spectrum: 0.11483829491771758
+typography_spectrum: 0.6781672548968345
+color:
+  brandStrength: 0.2856232337653637
+  lightness: 0.807245701784268
+  saturation: 0.5385682086925954
+  rhythmicContrast: 0.44012755900621414
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: WODDL
