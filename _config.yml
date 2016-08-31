@@ -11,6 +11,14 @@ color:
     - '#3498DB'
     - '#2980B9'
 layout_spectrum: 0.11483829491771758
+author:
+  name: Lars Ege
+  email: shout@woddl.com
+  url: www.woddl.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab00a875-ed5e-400e-b19d-9648dec26294.png
 name: WODDL
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/09c8dcfb-eb31-4d53-87f5-9ef31b0483b7.png
 title: WODDL
 description: puts creative tools to good use
