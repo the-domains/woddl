@@ -1,4 +1,3 @@
-layout_spectrum: 0.11483829491771758
 typography_spectrum: 0.6781672548968345
 color:
   brandStrength: 0.2856232337653637
@@ -11,4 +10,6 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.11483829491771758
 name: WODDL
+description: puts creative tools to good use
