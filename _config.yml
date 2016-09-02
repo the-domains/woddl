@@ -1,3 +1,4 @@
+layout_spectrum: 0.11483829491771758
 typography_spectrum: 0.6781672548968345
 color:
   brandStrength: 0.2856232337653637
@@ -5,20 +6,9 @@ color:
   saturation: 0.5385682086925954
   rhythmicContrast: 0.44012755900621414
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-layout_spectrum: 0.11483829491771758
-author:
-  name: Lars Ege
-  email: shout@woddl.com
-  url: www.woddl.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab00a875-ed5e-400e-b19d-9648dec26294.png
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: WODDL
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/09c8dcfb-eb31-4d53-87f5-9ef31b0483b7.png
-title: WODDL
-description: puts creative tools to good use
